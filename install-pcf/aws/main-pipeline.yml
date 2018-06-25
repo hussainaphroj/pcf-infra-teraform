@@ -22,7 +22,7 @@ resources:
 - name: pcf-pipelines
   type: git
   source:
-    uri: https://github.com/jojinjg/pcf-pipeline.git
+    uri: https://github.com/kirananil007/pcf-infra-terraform.git
     branch: master
 
 - name: pivnet-opsmgr
